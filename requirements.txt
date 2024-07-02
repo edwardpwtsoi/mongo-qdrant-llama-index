@@ -1,0 +1,17 @@
+python-dotenv
+requests
+tqdm
+# for google search
+dateparser
+trafilatura
+# llama index related
+llama-index
+llama-index-llms-azure-openai
+llama-index-embeddings-huggingface
+llama-index-llms-bedrock
+pymongo
+motor
+llama-index-storage-docstore-mongodb
+llama-index-storage-index-store-mongodb
+qdrant-client
+llama-index-vector-stores-qdrant
